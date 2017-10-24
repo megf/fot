@@ -1,2 +1,2 @@
-fot
+FotoManju.com Source Code
 ===
